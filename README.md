@@ -113,6 +113,7 @@ Final output is deduplicated to the latest event per License + Host + Product co
 
 - Eliminated ~20 minutes of manual report processing per week
 - Eliminated ~15 minutes of manual task creation per account rep per week
+- Elminated ~121 hours of manual work per year
 - Removed risk of human categorization errors
 - Cases are created and emails sent automatically — no rep action required to initiate customer outreach
 - Power BI model allows historical week-over-week analysis with consistent categorization logic
